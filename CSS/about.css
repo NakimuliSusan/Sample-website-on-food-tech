@@ -1,0 +1,51 @@
+body {
+    background-image:url(./images/about.jpg);
+    background-position: 100%;
+    background-size: cover;
+    background-position-x: center;
+}
+.container nav ul {
+  
+    list-style-type: none;
+    margin:  0;
+    padding: 0px;
+    display: inline;
+    
+ }
+ .container li {
+    float: right;
+    padding: 10px;
+ }
+ .container li a {
+  display: block;
+  color: rgb(226, 17, 142);
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+  height: 24px;
+  font-size:20px;
+ }
+ .container li a:hover {
+     background-color: rgb(224, 210, 226);
+     border-radius: 5px 5px 5px 5px;
+   }
+#menu iframe {
+    width:100%;
+    margin:auto 0;
+
+}
+.content {
+    text-align:center;
+    color: rgb(14, 53, 53);
+    font-size:30px;
+}
+footer {
+    position: fixed;
+    left: 0;
+    bottom: 0;
+    width: 100%;
+    background-color: rgb(117, 27, 81);
+    color: #fff;
+    text-align: center;
+    height:30px;
+}
