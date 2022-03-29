@@ -40,7 +40,7 @@ body {
     font-style: italic;
     font-family: fantasy;
     font-size:30px;
-    color: rgb(148, 147, 147);
+    color:#e5ebee;
 
 }
 .container p {
@@ -51,7 +51,7 @@ body {
     text-align: center;
     font-family: fantasy;
     font-size:30px;
-    color: rgb(148, 147, 147);
+    color: #e5ebee;
 }
 #social a {
     align-items: center;
