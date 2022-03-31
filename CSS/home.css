@@ -28,7 +28,7 @@ body {
 }
 .container li a:hover {
     background-color: rgb(224, 210, 226);
-    border-radius: 5px 5px 5px 5px;
+    border-radius: 20px;
   }
 .container h3 {
     background-color: rgb(17, 15, 15,0.6);
