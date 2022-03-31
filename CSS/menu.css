@@ -18,7 +18,9 @@ body {
  }
 .content li a {
   display: block;
-  color: rgb(226, 17, 142);
+  background-color: rgb(3, 3, 3,0.9);
+  color:rgba(233, 7, 146, 0.9);
+  border-radius:20%;
   text-align: center;
   padding: 14px 16px;
   text-decoration: none;
@@ -47,13 +49,13 @@ body {
 }
 th{
     width:100%;
-    background-color:black;
+    background-color:rgb(245, 230, 230);
     color:rgb(38, 3, 71)
     
     
 }
 tr:hover {
-    background-color: #16d8d8;
+    background-color: #0c0e0e;
     color: rgb(89, 0, 255);
 }
 td {
