@@ -18,7 +18,9 @@ body {
  }
  .container li a {
   display: block;
+  background-color: rgb(3, 3, 3,0.9);
   color: rgb(226, 17, 142);
+  border-radius:20%;
   text-align: center;
   padding: 14px 16px;
   text-decoration: none;
@@ -27,7 +29,7 @@ body {
  }
  .container li a:hover {
      background-color: rgb(224, 210, 226);
-     border-radius: 5px 5px 5px 5px;
+     border-radius:20px;
    }
 #menu iframe {
     width:100%;
